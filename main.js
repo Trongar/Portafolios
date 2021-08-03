@@ -1,0 +1,10 @@
+// JS
+import '/js/head.js';
+import '/js/header.js';
+import '/js/content.js';
+import '/js/icons.js';
+// CSS
+import '/css/styles.css';
+import '/css/header.css';
+import '/css/content.css';
+import '/css/modal.css';
